@@ -9,5 +9,5 @@ La aplicación se abrirá automáticamente en el navegador configurado por defec
 ## Instalar Módulos
 Para instalar los módulos necesarios para la aplicación, debes ejecutar el comando `npm install` en el terminal.
 
-## Puedes probar la version online aca: https://calculadora-react-1.netlify.app
+## Puedes probar la version online aca: <a target="_blank" href="https://calculadora-react-1.netlify.app">Aca</a>
 
